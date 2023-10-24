@@ -1,6 +1,6 @@
 # TpRmi
 
-<img src="rmi/Capture1.PNG">
+<img src="Project Rmi/Capture1.PNG">
 <p>L'ajout d'une Machine</p>
 
 <section>
