@@ -1,27 +1,27 @@
 # TpRmi
 <section>
-<img src="ProjectRmi/Capture1">
+<img src="Project Rmi/Capture1">
 <p>L'ajout d'une Machine</p>
 </section>
 <section>
-<img src="ProjectRmi/Capture2">
+<img src="Project Rmi/Capture2">
 <p>selection une Machine pour la modifier</p>
 </section>
 
 <section>
-<img src="ProjectRmi/Capture3">
+<img src="Project Rmi/Capture3">
 <p>effectuer les modifications sur la Machine</p>
 </section>
 <section>
-<img src="ProjectRmi/Capture4">
+<img src="Project Rmi/Capture4">
 <p> Machine Modifiee </p>
 </section>
 <section>
-<img src="ProjectRmi/Capture5">
+<img src="Project Rmi/Capture5">
 <p>selectionner une Machine pour la supprimer</p>
 </section>
 <section>
-<img src="ProjectRmi/Capture6">
+<img src="Project Rmi/Capture6">
 <p> La suppression Machine </p>
 </section>
 
