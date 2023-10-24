@@ -1,8 +1,8 @@
 # TpRmi
-<section>
+
 <img src="rmi/Capture1">
 <p>L'ajout d'une Machine</p>
-</section>
+
 <section>
 <img src="rmi/Capture2">
 <p>selection une Machine pour la modifier</p>
