@@ -5,7 +5,7 @@
 
 <section>
 <img src="Project Rmi/Capture2.PNG">
-<p>selection une Machine pour la modifier</p>
+<p>selectionner une Machine pour la modifier</p>
 </section>
 
 <section>
